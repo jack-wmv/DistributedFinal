@@ -1,0 +1,4 @@
+User: 123456
+Password: pass123
+Voted: 0
+Account: 1

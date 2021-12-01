@@ -1,0 +1,2 @@
+Election: 0
+Voting: 0

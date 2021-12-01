@@ -1,0 +1,5 @@
+Party: Liberal
+Website: libs.ca
+Statement: hello, this is the liberal party
+Votes: 0
+Name: John Doe
