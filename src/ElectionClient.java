@@ -191,7 +191,7 @@ public class ElectionClient{
                                 }
                                 else if(eFlag && !vFlag){
                                     System.out.println("Voter");
-                                    System.out.print("What would you like to do? \n1.View Candidates\n2. View Voting Results.\n3.Return to Main Menu.\nEnter: ");
+                                    System.out.print("What would you like to do? \n1.View Candidates\n2.View Voting Results.\n3.Return to Main Menu.\nEnter: ");
                                     int n = in.nextInt();
                                     if (n == 1) {
                                         viewCandidate(fi);

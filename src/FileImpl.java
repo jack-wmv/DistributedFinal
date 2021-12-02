@@ -517,6 +517,8 @@ public class FileImpl extends UnicastRemoteObject
 
     public String voteTable() throws IOException{
         StringBuilder table = new StringBuilder();
+        returnList.clear();
+        returnList = getCandidates();
 
         for (String s : returnList) {
             String name = s.substring(3);

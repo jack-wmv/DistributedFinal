@@ -1,4 +1,4 @@
 User: 10001
 Password: pass123
-Voted: 0
+Voted: 1
 Account: 2

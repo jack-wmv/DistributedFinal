@@ -1,0 +1,5 @@
+Party: NDP
+Website: ndp.ca
+Statement: updated
+Votes: 1
+Name: Johnny Appleseed

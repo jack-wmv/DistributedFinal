@@ -1,5 +1,5 @@
 Party: Green
-Website: greenbush.ca
-Statement: the environment amirite
-Votes: 0
+Website: gogreen.ca
+Statement: hello, this is wes anderson for the green party.
+Votes: 1
 Name: Wes Anderson
